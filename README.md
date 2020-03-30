@@ -1,4 +1,4 @@
-# Imagini-Reddit-Image-Downloader
+# Imagini-Reddit-Image-Downloader v1.0.5
 Reddit Image Downloader API
 
 Designed to download images from reddit en-masse from specific subreddits.
