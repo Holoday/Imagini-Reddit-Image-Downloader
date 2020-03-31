@@ -1,4 +1,4 @@
-#created by Nathan Myers
+#created by Holiday
 #v1.0.5 - 2/22/2020 Earth Time
 
 import praw,requests,re,os,platform,sys
