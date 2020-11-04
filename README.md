@@ -1,5 +1,5 @@
 # Imagini-Reddit-Image-Downloader v1.0.5
-Reddit Image Downloader API
+Reddit Image Downloader
 
 Designed to download images from reddit en-masse from specific subreddits.
 Tested downloading 1000 images from 'startrekmemes', suceeded in 0:51. Evidently, it is quite fast.
