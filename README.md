@@ -14,3 +14,5 @@ Contact me if you have a working linux system and are willing to help with devel
  - Run in your preferred terminal.
  
  - Profit!
+
+The code is the finest spaghet. Made most of it in a weekend.
